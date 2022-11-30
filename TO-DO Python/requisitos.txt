@@ -1,0 +1,12 @@
+Requisitos para o app
+
+-ADD to-do ok
+-alterar to-do ok
+-listar todos os itens ok
+listar concluidos
+listar pendentes
+marcar como concluido ok
+desmarcar como concluido ok
+-deletar ok 
+limpar tudo ok
+limpar concluido ok
